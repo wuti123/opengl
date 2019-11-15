@@ -1,0 +1,2 @@
+﻿  mesh.cpp
+e:\zy\opengl\opengl\mesh\mesh\src\mesh.cpp(76): warning C4244: “参数”: 从“unsigned int”转换到“float”，可能丢失数据
