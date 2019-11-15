@@ -1,0 +1,3 @@
+﻿  shader.cpp
+f:\vspractice\source\repos\opengl\shader\shader\src\shader.cpp(127): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+  shader.vcxproj -> F:\vspractice\source\repos\OpenGL\shader\Debug\shader.exe
