@@ -1,0 +1,25 @@
+﻿  main.cpp
+e:\zy\opengl\opengl\basiclighting\basiclighting\src\main.cpp(913): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\zy\opengl\opengl\basiclighting\basiclighting\src\main.cpp(925): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+e:\zy\opengl\opengl\basiclighting\basiclighting\src\main.cpp(926): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+e:\zy\opengl\opengl\basiclighting\basiclighting\src\main.cpp(927): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+e:\zy\opengl\opengl\basiclighting\basiclighting\src\main.cpp(1004): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\zy\opengl\opengl\basiclighting\basiclighting\src\main.cpp(1005): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\zy\opengl\opengl\basiclighting\basiclighting\src\main.cpp(1009): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\zy\opengl\opengl\basiclighting\basiclighting\src\main.cpp(1010): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\zy\opengl\opengl\basiclighting\basiclighting\src\main.cpp(1012): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\zy\opengl\opengl\basiclighting\basiclighting\src\main.cpp(1013): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\zy\opengl\opengl\basiclighting\basiclighting\src\main.cpp(1021): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  BasicLighting.vcxproj -> E:\zy\OpenGL\OpenGL\BasicLighting\Debug\BasicLighting.exe
