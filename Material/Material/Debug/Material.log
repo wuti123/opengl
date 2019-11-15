@@ -1,0 +1,25 @@
+﻿  main.cpp
+e:\zy\opengl\opengl\material\material\src\main.cpp(196): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\zy\opengl\opengl\material\material\src\main.cpp(213): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+e:\zy\opengl\opengl\material\material\src\main.cpp(214): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+e:\zy\opengl\opengl\material\material\src\main.cpp(215): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+e:\zy\opengl\opengl\material\material\src\main.cpp(300): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\zy\opengl\opengl\material\material\src\main.cpp(301): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\zy\opengl\opengl\material\material\src\main.cpp(305): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\zy\opengl\opengl\material\material\src\main.cpp(306): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\zy\opengl\opengl\material\material\src\main.cpp(308): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\zy\opengl\opengl\material\material\src\main.cpp(309): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\zy\opengl\opengl\material\material\src\main.cpp(317): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Material.vcxproj -> E:\zy\OpenGL\OpenGL\Material\Debug\Material.exe
